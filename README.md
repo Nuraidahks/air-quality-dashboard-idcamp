@@ -83,6 +83,4 @@ Dashboard Streamlit menyediakan antarmuka interaktif untuk mengeksplorasi:
 4. Proporsi kategori Indeks Kualitas Udara (AQI) menggunakan Pie Chart.
 
 ## Credits
-Penulis: Nur Aidah K.S.
-
 Proyek ini dikembangkan sebagai tugas akhir untuk kelas "Belajar Analisis Data dengan Python" di Dicoding Academy (IDCamp). Terima kasih khusus kepada Dicoding Academy karena telah menyediakan sumber daya, panduan, dan platform pembelajaran yang luar biasa.
