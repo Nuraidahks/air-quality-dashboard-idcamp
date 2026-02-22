@@ -3,7 +3,7 @@
 
 ![Air Quality Dashboard](dashboard.gif)
 
-[Air Quality Dashboard Streamlit App](https://air-quality-dashboard-nuraidahks.streamlit.app/)
+[Air Quality Dashboard Streamlit App](https://air-quality-dashboard-idcamp-nuraidah.streamlit.app/)
 
 
 
